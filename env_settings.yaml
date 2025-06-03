@@ -1,0 +1,5 @@
+# Store API URLs for external services
+YAHOO_US_SRP: "https://search.yahoo.com/search"
+SCREENSHOT_N_CACHE_API: "http://10.93.64.153"
+SAYT_API: "https://search.yahoo.com/sugg/gossip/gossip-us-fastbreak"
+NUWA_URL: "http://nuwa.search.yahoo.com:4080/api/v1/search"

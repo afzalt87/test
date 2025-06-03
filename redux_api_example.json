@@ -1,0 +1,213 @@
+{
+    "data": {
+        "search": {
+            "gsmUrl": "http://wizqa-lpm.gsm.search.yahoo.com:4080/lpm?outschema=mrp&fr=sfp&fr2=sb-top&hspart=syc-fr-ono&entry=search&product=yahoo&vertical=web&env=prod&device=desktop&testCode=1&isInternalUser=1&isTestTraffic=true&intl=us&region=US&lang=en-US&query=fed news",
+            "query": "fed news",
+            "intl": "us",
+            "device": "desktop",
+            "timestamp": 1745929526908,
+            "data": {
+                "1-algo": {
+                    "1-algoSiteInfo": {
+                        "data": {
+                            "url": "https://federalnewsnetwork.com/",
+                            "abstract": "<b>Federal News</b> Network covers the latest news and trends affecting federal employees, contractors and agencies. Find stories on workforce, acquisition, policy, AI, reorganization and more."
+                        }
+                    }
+                },
+                "2-newsdd": {
+                    "1-nuwaArticles": {
+                        "data": {
+                            "title": "Top Stories",
+                            "more": "More news for Fed",
+                            "list": [
+                                {
+                                    "title": "US Supreme Court fight may shape Trump's ability to fire Fed chair",
+                                    "url": "https://www.yahoo.com/news/us-supreme-court-fight-may-100303503.html",
+                                    "time": "2 hours ago",
+                                    "originalSource": "Reuters via Yahoo"
+                                },
+                                {
+                                    "title": "Making a dog's dinner: vets and canine experts on the most eco and affordable ways to feed your pooch",
+                                    "url": "https://www.yahoo.com/lifestyle/making-dog-dinner-vets-canine-120045580.html",
+                                    "time": "25 minutes ago",
+                                    "originalSource": "The Guardian via Yahoo"
+                                },
+                                {
+                                    "title": "A weird partisan pattern of trust in the Fed",
+                                    "url": "https://www.wusf.org/2025-04-29/a-weird-partisan-pattern-of-trust-in-the-fed",
+                                    "time": "6 hours ago",
+                                    "originalSource": "WUSF 89.7"
+                                },
+                                {
+                                    "title": "US Dollar Index sees markets brush off blood-red Dallas Fed Manufacturing report",
+                                    "url": "https://www.fxstreet.com/news/us-dollar-steady-as-markets-try-to-read-through-tariffs-and-us-data-202504291114",
+                                    "time": "24 minutes ago",
+                                    "originalSource": "The Forex Market"
+                                },
+                                {
+                                    "title": "Rates Decline for Prospective Buyers: Current Mortgage Rates for April 29, 2025",
+                                    "url": "https://finance.yahoo.com/news/rates-decline-prospective-buyers-current-080500574.html",
+                                    "time": "4 hours ago",
+                                    "originalSource": "CNET via Yahoo"
+                                },
+                                {
+                                    "title": "Hydrangeas and roses will bloom profusely when fed 1 kitchen scrap",
+                                    "url": "https://www.express.co.uk/life-style/garden/2048023/coffee-grounds-fertiliser-hydrangeas-roses",
+                                    "time": "2 hours ago",
+                                    "originalSource": "Daily Express"
+                                },
+                                {
+                                    "title": "Best money market account rates today: April 29, 2025 (earn up to 4.41% APY)",
+                                    "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-tuesday-april-29-2025-100044629.html",
+                                    "time": "2 hours ago",
+                                    "originalSource": "Yahoo Personal Finance"
+                                },
+                                {
+                                    "title": "Inside Compass' spat with NWMLS over private listings",
+                                    "url": "https://therealdeal.com/national/2025/04/29/compass-lawsuit-against-nwmls-details-battle-over-private-listings/",
+                                    "time": "25 minutes ago",
+                                    "originalSource": "The Real Deal"
+                                },
+                                {
+                                    "title": "Stagflation fears rise as US manufacturing slumps – Commerzbank",
+                                    "url": "https://www.fxstreet.com/news/stagflation-fears-rise-as-us-manufacturing-slumps-commerzbank-202504290839",
+                                    "time": "3 hours ago",
+                                    "originalSource": "The Forex Market"
+                                },
+                                {
+                                    "title": "Pistons-Knicks Game 5 scouting report, prediction: Brunson, Towns provide big hill to climb",
+                                    "url": "https://sports.yahoo.com/article/pistons-knicks-game-5-scouting-100346221.html",
+                                    "time": "2 hours ago",
+                                    "originalSource": "Detroit Free Press via Yahoo"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "3-algo": {
+                    "1-algoSiteInfo": {
+                        "data": {
+                            "url": "https://www.usatoday.com/story/money/economy/2025/04/28/fed-trump-powell-feud-interest-rates/83325898007/",
+                            "abstract": "The Dow is heading for its worst April since 1932, according to Dow Jones Market Data, as reported by the Wall Street Journal. The <b>Federal Reserve</b> policy committee's next meeting is May 6 and May ..."
+                        }
+                    }
+                },
+                "4-algo": {
+                    "1-algoSiteInfo": {
+                        "data": {
+                            "url": "https://www.npr.org/sections/planet-money/2025/04/29/g-s1-63059/a-weird-partisan-pattern-of-trust-in-the-fed",
+                            "abstract": "<b>Federal Reserve</b> Bank Chair Jerome Powell announces that interest rates will remain unchanged during a <b>news</b> conference at the <b>Federal Reserve</b>'s William McChesney Martin building on June 12, 2024 ..."
+                        }
+                    }
+                },
+                "5-algo": {
+                    "1-algoSiteInfo": {
+                        "data": {
+                            "url": "https://www.reuters.com/markets/us/federal-reserve/",
+                            "abstract": "Rising risks around global trade, general policy uncertainty, and the sustainability of U.S. debt topped the list of potential risks to the U.S. financial system in a new <b>Federal</b> Reserve survey..."
+                        }
+                    }
+                },
+                "6-algo": {
+                    "1-algoSiteInfo": {
+                        "data": {
+                            "url": "https://apnews.com/article/fed-federal-reserve-rates-trump-tariffs-inflation-prices-a9008f1bb081093cd149967e3e637c7b",
+                            "abstract": "The <b>Federal</b> Reserve kept its benchmark interest rate unchanged Wednesday and signaled that it still expects to cut rates twice this year, though more policymakers forecast fewer cuts."
+                        }
+                    }
+                },
+                "7-videodd": {
+                    "1-videoList": {
+                        "data": {
+                            "header": "Videos",
+                            "footer": "More videos for Fed News »",
+                            "cards": [
+                                {
+                                    "headline": "Fed announces multi-billion dollar remodel of DC headquarters",
+                                    "cite": "YouTube",
+                                    "date": "Apr 29, 2025"
+                                },
+                                {
+                                    "headline": "Canadian media projects win for Liberals in federal elections",
+                                    "cite": "YouTube",
+                                    "date": "Apr 29, 2025"
+                                },
+                                {
+                                    "headline": "Canada Federal Election Results LIVE: Mark Carney's Liberals Projected To Win Canada Election | N18G",
+                                    "cite": "YouTube",
+                                    "date": "Apr 28, 2025"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "8-algo": {
+                    "1-algoSiteInfo": {
+                        "data": {
+                            "url": "https://www.barrons.com/livecoverage/fed-speech-news-jefferson-harker-barkin",
+                            "abstract": "Follow the latest <b>news</b> from the many <b>Federal Reserve</b> officials speaking today amid Trump's attacks on Powell and ahead of the next interest-rate decision."
+                        }
+                    }
+                },
+                "9-algo": {
+                    "1-algoSiteInfo": {
+                        "data": {
+                            "url": "https://apnews.com/article/federal-reserve-jerome-powell-stagflation-52113a78265b5316b3f378cab5563dca",
+                            "abstract": "As the <b>Fed</b> prepares to meet Tuesday and Wednesday, the central bank and its chair, Jerome Powell, are potentially headed to a much tougher spot. Inflation improved last month but is still high and tariffs could push it higher."
+                        }
+                    }
+                },
+                "10-peopleAlsoAsk": {
+                    "2-peopleAlsoAsk": {
+                        "data": {
+                            "title": "People also ask",
+                            "list": [
+                                {
+                                    "title": "When will the Fed cut interest rates?",
+                                    "description": "In an interview on CNBC Thursday, Federal Reserve Bank of Cleveland President Beth Hammack said the Fed could cut interest rates <b>as soon as June</b> if the economy shows signs of deteriorating under President Donald Trump's on-again, off-again tariffs.",
+                                    "text": "What Would It Take For The Fed To Cut Interest Rates?",
+                                    "cite": "www.msn.com/en-us/money/markets/what-would-it-take-for-the-fed-to-cut-interest-rates/ar-AA1DBHzW"
+                                },
+                                {
+                                    "title": "What did the Fed say after the April selloff?",
+                                    "description": "However, the Fed cautioned that even following the April selloff, asset valuations remained relatively high, and residential real estate prices also were elevated. The Fed said the U.S. banking system remained sound and resilient, as firms maintained robust capital ratios.",
+                                    "text": "Fed survey finds global trade fight, policy uncertainty top financial stabil…",
+                                    "cite": "www.usatoday.com/story/money/economy/2025/04/25/fed-survey-tariffs-policy-uncertainty-top-financial-risks/83278504007/"
+                                },
+                                {
+                                    "title": "How does the Fed help the economy?",
+                                    "description": "The Fed's job is to keep inflation low and unemployment high. Its primary tool, the federal funds rate, influences borrowing costs for all kinds of loans. The Fed can boost the economy by <b>lowering the rate or push down inflation by raising it</b>.",
+                                    "text": "What Would It Take For The Fed To Cut Interest Rates?",
+                                    "cite": "www.msn.com/en-us/money/markets/what-would-it-take-for-the-fed-to-cut-interest-rates/ar-AA1DBHzW"
+                                },
+                                {
+                                    "title": "What did the Fed say about the US banking system?",
+                                    "description": "The Fed said the U.S. banking system <b>remained sound and resilient</b>, as firms maintained robust capital ratios. But it did find that bank credit commitments to less regulated non-banks continued to increase.",
+                                    "text": "Fed survey finds global trade fight, policy uncertainty top financial stabil…",
+                                    "cite": "www.usatoday.com/story/money/economy/2025/04/25/fed-survey-tariffs-policy-uncertainty-top-financial-risks/83278504007/"
+                                },
+                                {
+                                    "title": "Will the Fed chair be fired in 2026?",
+                                    "description": "\"No Fed Chair has ever been fired before,\" said Charles Ballard, professor of economics emeritus at Michigan State University. Ballard says he believes <b>it's pretty likely that Powell will serve out his term through May 2026</b>. Trump nominated Powell to lead the central bank in 2017.",
+                                    "text": "Trump's Fed feud: Why interest rates won't budge anytime soon",
+                                    "cite": "www.msn.com/en-us/money/markets/trumps-fed-feud-why-interest-rates-wont-budge-anytime-soon/ar-AA1DMBlp"
+                                },
+                                {
+                                    "title": "Could fed plan a late rescue for the economy?",
+                                    "description": "That has prompted Fed officials to shift their strategy to one that <b>might best be described as plotting a late rescue for the economy</b> — hold rates steady for long enough to keep inflation contained, but be ready to lower them just in time to keep the labor market from crashing.",
+                                    "text": "Fed's Powell Walks Tightrope of Being Late But Not 'Mr. Too Late'",
+                                    "cite": "www.msn.com/en-us/money/other/fed-s-powell-walks-tightrope-of-being-late-but-not-mr-too-late/ar-AA1DCPW9"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "11-alsoTrySouth": {},
+                "12-disambiguation": {},
+                "13-alsoTryEast": {},
+                "14-trendingNow": {}
+            }
+        }
+    }
+}

@@ -147,3 +147,7 @@ To ensure smooth collaboration, please follow this simplified git workflow:
      ```sh
      git push
      ```
+6. **Open a Pull Request (PR) on GitHub**
+   - Include a description, link to the JIRA ticket, and example output.
+   - Request 2 reviewers.
+

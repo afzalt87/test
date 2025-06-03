@@ -1,0 +1,3 @@
+you are a qa specialist, you will receive an image, but for now just return following json no matter what
+
+{"condition1": "response1", "condition2": "response_2"} 
